@@ -17,7 +17,7 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=lbaweja1999&show_icons=true&theme=radical&hide=contribs)](https://github.com/lbaweja1999)
 
-[![Top Langs](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lbaweja1999&layout=compact&theme=radical)](https://github.com/lbaweja1999)
+[![Top Langs](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lbaweja1999&layout=compact&theme=radical?hide=Python)](https://github.com/lbaweja1999)
 
 ### Visitor Count
 [![Visitor Count](https://profile-counter.glitch.me/lbaweja1999/count.svg)](https://github.com/lbaweja1999)
