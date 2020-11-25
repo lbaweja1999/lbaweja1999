@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there 👋I'm [Lakshay!](https://lakshaybaweja.netlify.app/)
+  I Code Recursively xD.
+  
+## 📬 Get in touch
 
-<!--
-**lbaweja1999/lbaweja1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Portofolio: https://lakshaybaweja.netlify.app/
+- LinkedIn: https://www.linkedin.com/m/in/lakshay-baweja-842602187
+- Twitter: https://mobile.twitter.com/baweja_lakshay
+- Instagram: https://www.instagram.com/lakshayb99/
 
-Here are some ideas to get you started:
+## 💻 Have a look at some of my projects 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Swachhta Prabandh: https://swachhtaprabandh.herokuapp.com/
+-InstaClone: https://lakshaysinstaclone.herokuapp.com/
+-Chatty: https://chattyy.netlify.app/
+-Time Management System: https://github.com/lbaweja1999/TimeManagementSystem 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=lbaweja1999&show_icons=true&theme=radical&hide=contribs)](https://github.com/lbaweja1999)[![Top Langs](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lbaweja1999&layout=compact&theme=radical)](https://github.com/lbaweja1999)
+
+### Visitor Count
+[![Visitor Count](https://profile-counter.glitch.me/lbaweja1999/count.svg)](https://github.com/lbaweja1999)
